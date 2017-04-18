@@ -1,6 +1,12 @@
 # Start-Page
-My firefox start-page. I've removed sensitive URLs, however the general layout is the same.
+Modified version of Jarvvski's startpage for personal use.
 
-# Usage
-Check [/r/startpages](https://www.reddit.com/r/startpages/) to find out how to use it with your specific browser.
+Changes:
+
+* Added time and date
+* Changes colors
+* Change the way things are centered
+* Changed font
+* Improved layout for having multiple lines of link categories
+
 
